@@ -1,0 +1,1456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>~GE1218.kmz</name>
+	<Style id="ap_#f4a460886">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6660a4f4</color>
+		</PolyStyle>
+	</Style>
+	<Style id="ap_#f4a460880">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6660a4f4</color>
+		</PolyStyle>
+	</Style>
+	<Style id="ap_#f4a460885">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6660a4f4</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="site">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#site_style</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#site_highlight_style</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="ap_#f4a46088">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6660a4f4</color>
+		</PolyStyle>
+	</Style>
+	<Style id="ap_#f4a460884">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6660a4f4</color>
+		</PolyStyle>
+	</Style>
+	<Style id="site_style">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://linkplanner.cambiumnetworks.com/lp_icons/site.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="access_point_#f4a460880">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#ap_#f4a460882</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#ap_#f4a46088</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="access_point_#f4a460882">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#ap_#f4a460880</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#ap_#f4a460885</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="site_highlight_style">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://linkplanner.cambiumnetworks.com/lp_icons/site_selected.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="ap_#f4a460882">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6660a4f4</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="access_point_#f4a460881">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#ap_#f4a460881</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#ap_#f4a460884</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="ap_#f4a460881">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6660a4f4</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="access_point_#f4a46088">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#ap_#f4a460883</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#ap_#f4a460886</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="ap_#f4a460883">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6660a4f4</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>TWMCC Coverage</name>
+		<open>1</open>
+		<Placemark id="access_point_423405776">
+			<name>TWMCC_450M_C156_A000_5817</name>
+			<styleUrl>#access_point_#f4a460880</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-120.11417,48.31835999999999,0 -120.25251,48.41038,0 -120.24761,48.41355,0 -120.24254,48.41659,0 -120.23732,48.41952,0 -120.23194,48.42233,0 -120.22642,48.425,0 -120.22076,48.42754999999999,0 -120.21497,48.42997,0 -120.20906,48.43223999999999,0 -120.20303,48.43438,0 -120.1969,48.43638000000001,0 -120.19066,48.43824000000001,0 -120.18432,48.43993999999999,0 -120.17791,48.44149999999999,0 -120.17141,48.44291,0 -120.16484,48.44417,0 -120.15821,48.44527000000001,0 -120.15153,48.44622,0 -120.1448,48.44701,0 -120.13803,48.44763999999999,0 -120.13123,48.44812,0 -120.12442,48.44844000000001,0 -120.11759,48.4486,0 -120.11075,48.4486,0 -120.10392,48.44844000000001,0 -120.09711,48.44812,0 -120.09031,48.44763999999999,0 -120.08354,48.44701,0 -120.07681,48.44622,0 -120.07013,48.44527000000001,0 -120.0635,48.44417,0 -120.05693,48.44291,0 -120.05043,48.44149999999999,0 -120.04402,48.43993999999999,0 -120.03768,48.43824000000001,0 -120.03144,48.43638000000001,0 -120.02531,48.43438,0 -120.01928,48.43223999999999,0 -120.01337,48.42997,0 -120.00758,48.42754999999999,0 -120.00192,48.425,0 -119.9964,48.42233,0 -119.99102,48.41952,0 -119.9858,48.41659,0 -119.98073,48.41355,0 -119.97583,48.41038,0 -120.11417,48.31835999999999,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="access_point_423344816">
+			<name>TWMCC_450M_C157_A045_5818</name>
+			<styleUrl>#access_point_#f4a46088</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-120.11417,48.31835999999999,0 -120.11417,48.41967,0 -120.10886,48.41961,0 -120.10355,48.41942,0 -120.09826,48.41911,0 -120.09299,48.41868,0 -120.08774,48.41813,0 -120.08253,48.41745000000001,0 -120.07735,48.41665,0 -120.07222,48.41574,0 -120.06714,48.41470000000001,0 -120.06212,48.41355,0 -120.05716,48.41228000000001,0 -120.05228,48.41089,0 -120.04746,48.40939999999999,0 -120.04273,48.40778999999999,0 -120.03809,48.40607,0 -120.03354,48.40425,0 -120.02909,48.40232,0 -120.02474,48.40029,0 -120.02051,48.39816,0 -120.01638,48.39593,0 -120.01238,48.3936,0 -120.0085,48.39119000000001,0 -120.00475,48.38868,0 -120.00114,48.38609,0 -119.99766,48.38342,0 -119.99433,48.38067,0 -119.99114,48.37784,0 -119.9881,48.37494,0 -119.98522,48.37197,0 -119.98249,48.36894,0 -119.97993,48.36584,0 -119.97753,48.36269,0 -119.97529,48.35948,0 -119.97323,48.35623,0 -119.97134,48.35292,0 -119.96962,48.34958,0 -119.96808,48.34619,0 -119.96672,48.34277,0 -119.96553,48.33933,0 -119.96453,48.33586,0 -119.96371,48.33235999999999,0 -119.96307,48.32885,0 -119.96262,48.32532999999999,0 -119.96236,48.3218,0 -119.96227,48.31826,0 -120.11417,48.31835999999999,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="access_point_409336880">
+			<name>TWMCC_450M_C158_A090_5819</name>
+			<styleUrl>#access_point_#f4a460882</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-120.11417,48.31835999999999,0 -120.00661,48.38995,0 -120.00293,48.3874,0 -119.99938,48.38477000000001,0 -119.99598,48.38206,0 -119.99272,48.37927000000001,0 -119.9896,48.3764,0 -119.98664,48.37347,0 -119.98384,48.37046000000001,0 -119.98119,48.36740000000001,0 -119.97871,48.36426999999999,0 -119.97639,48.36109,0 -119.97424,48.35786,0 -119.97226,48.35458,0 -119.97046,48.35125,0 -119.96883,48.34789,0 -119.96737,48.34449,0 -119.9661,48.34105,0 -119.96501,48.33758999999999,0 -119.9641,48.33411,0 -119.96337,48.33061000000001,0 -119.96283,48.32709,0 -119.96247,48.32356,0 -119.96229,48.32003,0 -119.9623,48.31649000000001,0 -119.9625,48.31296,0 -119.96288,48.30943,0 -119.96344,48.30590999999999,0 -119.96419,48.30241,0 -119.96512,48.29893000000001,0 -119.96623,48.29547,0 -119.96752,48.29205,0 -119.96899,48.28865,0 -119.97064,48.28529,0 -119.97246,48.28197,0 -119.97446,48.27869,0 -119.97662,48.27546,0 -119.97895,48.27229,0 -119.98145,48.26917,0 -119.9841,48.26611000000001,0 -119.98692,48.26311000000001,0 -119.98988,48.26018,0 -119.993,48.25733,0 -119.99627,48.25454,0 -119.99968,48.25184,0 -120.00323,48.24921,0 -120.00691,48.24667,0 -120.11417,48.31835999999999,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="access_point_409324976">
+			<name>TWMCC_450M_C159_A135_5820</name>
+			<styleUrl>#access_point_#f4a460881</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-120.11417,48.31835999999999,0 -120.00567,48.31831,0 -120.00574,48.31578,0 -120.00595,48.31326,0 -120.00628,48.31075,0 -120.00675,48.30824000000001,0 -120.00735,48.30573999999999,0 -120.00807,48.30326999999999,0 -120.00893,48.30081,0 -120.00992,48.29837,0 -120.01103,48.29595,0 -120.01227,48.29356,0 -120.01363,48.29121,0 -120.01511,48.28888,0 -120.01671,48.2866,0 -120.01844,48.28435,0 -120.02027,48.28214,0 -120.02223,48.27998,0 -120.02429,48.27786,0 -120.02647,48.27579,0 -120.02875,48.27378,0 -120.03113,48.27181,0 -120.03362,48.26991000000001,0 -120.0362,48.26805999999999,0 -120.03888,48.26628,0 -120.04165,48.26456,0 -120.0445,48.2629,0 -120.04745,48.26132,0 -120.05047,48.25980000000001,0 -120.05357,48.25835,0 -120.05674,48.25698,0 -120.05999,48.25568,0 -120.0633,48.25445,0 -120.06667,48.25331,0 -120.0701,48.25224000000001,0 -120.07358,48.25126,0 -120.07711,48.25035,0 -120.08069,48.24953,0 -120.0843,48.24879,0 -120.08796,48.24814,0 -120.09164,48.24757,0 -120.09536,48.24709,0 -120.09909,48.2467,0 -120.10284,48.24639,0 -120.10661,48.24617,0 -120.11039,48.24604000000001,0 -120.11417,48.24598999999999,0 -120.11417,48.31835999999999,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<GroundOverlay>
+			<name>Combined.png</name>
+			<visibility>0</visibility>
+			<color>88ffffff</color>
+			<Icon>
+				<href>Combined.png</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>48.45333</north>
+				<south>48.18337</south>
+				<east>-119.9112</east>
+				<west>-120.3172</west>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>cov0001_TWMCC_51_000.png</name>
+			<color>88ffffff</color>
+			<Icon>
+				<href>cov0001_TWMCC_51_000.png</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>48.45333</north>
+				<south>48.18337</south>
+				<east>-119.9112</east>
+				<west>-120.3172</west>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>cov0002_TWMCC_51_045.png</name>
+			<color>88ffffff</color>
+			<Icon>
+				<href>cov0002_TWMCC_51_045.png</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>48.45333</north>
+				<south>48.18337</south>
+				<east>-119.9112</east>
+				<west>-120.3172</west>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>cov0003_TWMCC_51_090.png</name>
+			<color>88ffffff</color>
+			<Icon>
+				<href>cov0003_TWMCC_51_090.png</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>48.45333</north>
+				<south>48.18337</south>
+				<east>-119.9112</east>
+				<west>-120.3172</west>
+			</LatLonBox>
+		</GroundOverlay>
+		<GroundOverlay>
+			<name>cov0004_TWMCC_51_135.png</name>
+			<color>88ffffff</color>
+			<Icon>
+				<href>cov0004_TWMCC_51_135.png</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>48.45333</north>
+				<south>48.18337</south>
+				<east>-119.9112</east>
+				<west>-120.3172</west>
+			</LatLonBox>
+		</GroundOverlay>
+		<Folder>
+			<name>Network Sites</name>
+			<Placemark id="site_359765296">
+				<name>OMCOL</name>
+				<description><![CDATA[<p>Approximate profiles to nearby sites</p>
+					 
+						
+						 <ul>
+							<li>Profile between OMCOL and
+                                OMSHE<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.39348%2C-119.5492%2C%2C%2C&pt0=48.43412%2C-119.50277%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between OMCOL and
+                                OKJAK<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.35256%2C-119.56554%2C%2C%2C&pt0=48.43412%2C-119.50277%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between OMCOL and
+                                MAFOX<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.32592%2C-119.70396%2C%2C%2C&pt0=48.43412%2C-119.50277%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between OMCOL and
+                                TOALK<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.66868%2C-119.51567%2C%2C%2C&pt0=48.43412%2C-119.50277%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between OMCOL and
+                                P11442<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.31127%2C-119.83675%2C%2C%2C&pt0=48.43412%2C-119.50277%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between OMCOL and
+                                P11443<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.31032%2C-119.83754%2C%2C%2C&pt0=48.43412%2C-119.50277%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between OMCOL and
+                                P30092<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.30619%2C-119.83503%2C%2C%2C&pt0=48.43412%2C-119.50277%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between OMCOL and
+                                Brannon<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.31225%2C-119.85244%2C%2C%2C&pt0=48.43412%2C-119.50277%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between OMCOL and
+                                BROPH<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.19295%2C-119.71635%2C%2C%2C&pt0=48.43412%2C-119.50277%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between OMCOL and
+                                TONOR<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.71245%2C-119.44758%2C%2C%2C&pt0=48.43412%2C-119.50277%2C%2C%2C">
+							</li>
+						 </ul>
+						
+		
+			<em>
+			Profile images &copy; 2008-2017 Michael Kosowsky.
+			All rights reserved. Used with permission. For more
+			information, visit
+			<a href="http://www.heywhatsthat.com/">HeyWhatsThat</a>
+			</em>]]></description>
+				<styleUrl>#site</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-119.50277,48.43412,12.1920000186</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="site_407174320">
+				<name>ORWES</name>
+				<description><![CDATA[<p>Approximate profiles to nearby sites</p>
+					 
+						
+						 <ul>
+							<li>Profile between ORWES and
+                                OREDR<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.96037%2C-119.40293%2C%2C%2C&pt0=48.94533%2C-119.44443%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between ORWES and
+                                EFPIK<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.78988%2C-119.38162%2C%2C%2C&pt0=48.94533%2C-119.44443%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between ORWES and
+                                TONOR<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.71245%2C-119.44758%2C%2C%2C&pt0=48.94533%2C-119.44443%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between ORWES and
+                                TOALK<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.66868%2C-119.51567%2C%2C%2C&pt0=48.94533%2C-119.44443%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between ORWES and
+                                OMCOL<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.43412%2C-119.50277%2C%2C%2C&pt0=48.94533%2C-119.44443%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between ORWES and
+                                OMSHE<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.39348%2C-119.5492%2C%2C%2C&pt0=48.94533%2C-119.44443%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between ORWES and
+                                OKJAK<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.35256%2C-119.56554%2C%2C%2C&pt0=48.94533%2C-119.44443%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between ORWES and
+                                MAFOX<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.32592%2C-119.70396%2C%2C%2C&pt0=48.94533%2C-119.44443%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between ORWES and
+                                P11442<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.31127%2C-119.83675%2C%2C%2C&pt0=48.94533%2C-119.44443%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between ORWES and
+                                P11443<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.31032%2C-119.83754%2C%2C%2C&pt0=48.94533%2C-119.44443%2C%2C%2C">
+							</li>
+						 </ul>
+						
+		
+			<em>
+			Profile images &copy; 2008-2017 Michael Kosowsky.
+			All rights reserved. Used with permission. For more
+			information, visit
+			<a href="http://www.heywhatsthat.com/">HeyWhatsThat</a>
+			</em>]]></description>
+				<styleUrl>#site</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-119.44443,48.94533,15.2400000233</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="site_407174160">
+				<name>OREDR</name>
+				<description><![CDATA[<p>Approximate profiles to nearby sites</p>
+					 
+						
+						 <ul>
+							<li>Profile between OREDR and
+                                ORWES<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.94533%2C-119.44443%2C%2C%2C&pt0=48.96037%2C-119.40293%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between OREDR and
+                                EFPIK<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.78988%2C-119.38162%2C%2C%2C&pt0=48.96037%2C-119.40293%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between OREDR and
+                                TONOR<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.71245%2C-119.44758%2C%2C%2C&pt0=48.96037%2C-119.40293%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between OREDR and
+                                TOALK<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.66868%2C-119.51567%2C%2C%2C&pt0=48.96037%2C-119.40293%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between OREDR and
+                                OMCOL<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.43412%2C-119.50277%2C%2C%2C&pt0=48.96037%2C-119.40293%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between OREDR and
+                                OMSHE<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.39348%2C-119.5492%2C%2C%2C&pt0=48.96037%2C-119.40293%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between OREDR and
+                                OKJAK<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.35256%2C-119.56554%2C%2C%2C&pt0=48.96037%2C-119.40293%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between OREDR and
+                                MAFOX<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.32592%2C-119.70396%2C%2C%2C&pt0=48.96037%2C-119.40293%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between OREDR and
+                                P11442<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.31127%2C-119.83675%2C%2C%2C&pt0=48.96037%2C-119.40293%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between OREDR and
+                                P11443<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.31032%2C-119.83754%2C%2C%2C&pt0=48.96037%2C-119.40293%2C%2C%2C">
+							</li>
+						 </ul>
+						
+		
+			<em>
+			Profile images &copy; 2008-2017 Michael Kosowsky.
+			All rights reserved. Used with permission. For more
+			information, visit
+			<a href="http://www.heywhatsthat.com/">HeyWhatsThat</a>
+			</em>]]></description>
+				<styleUrl>#site</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-119.40293,48.96037000000001,13.716000021</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="site_407172176">
+				<name>EFPIK</name>
+				<description><![CDATA[<p>Approximate profiles to nearby sites</p>
+					 
+						
+						 <ul>
+							<li>Profile between EFPIK and
+                                TONOR<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.71245%2C-119.44758%2C%2C%2C&pt0=48.78988%2C-119.38162%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between EFPIK and
+                                TOALK<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.66868%2C-119.51567%2C%2C%2C&pt0=48.78988%2C-119.38162%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between EFPIK and
+                                ORWES<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.94533%2C-119.44443%2C%2C%2C&pt0=48.78988%2C-119.38162%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between EFPIK and
+                                OREDR<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.96037%2C-119.40293%2C%2C%2C&pt0=48.78988%2C-119.38162%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between EFPIK and
+                                OMCOL<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.43412%2C-119.50277%2C%2C%2C&pt0=48.78988%2C-119.38162%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between EFPIK and
+                                OMSHE<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.39348%2C-119.5492%2C%2C%2C&pt0=48.78988%2C-119.38162%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between EFPIK and
+                                OKJAK<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.35256%2C-119.56554%2C%2C%2C&pt0=48.78988%2C-119.38162%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between EFPIK and
+                                MAFOX<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.32592%2C-119.70396%2C%2C%2C&pt0=48.78988%2C-119.38162%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between EFPIK and
+                                P11442<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.31127%2C-119.83675%2C%2C%2C&pt0=48.78988%2C-119.38162%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between EFPIK and
+                                P11443<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.31032%2C-119.83754%2C%2C%2C&pt0=48.78988%2C-119.38162%2C%2C%2C">
+							</li>
+						 </ul>
+						
+		
+			<em>
+			Profile images &copy; 2008-2017 Michael Kosowsky.
+			All rights reserved. Used with permission. For more
+			information, visit
+			<a href="http://www.heywhatsthat.com/">HeyWhatsThat</a>
+			</em>]]></description>
+				<styleUrl>#site</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-119.38162,48.78987999999999,13.716000021</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="site_407171248">
+				<name>TONOR</name>
+				<description><![CDATA[<p>Approximate profiles to nearby sites</p>
+					 
+						
+						 <ul>
+							<li>Profile between TONOR and
+                                TOALK<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.66868%2C-119.51567%2C%2C%2C&pt0=48.71245%2C-119.44758%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between TONOR and
+                                EFPIK<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.78988%2C-119.38162%2C%2C%2C&pt0=48.71245%2C-119.44758%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between TONOR and
+                                ORWES<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.94533%2C-119.44443%2C%2C%2C&pt0=48.71245%2C-119.44758%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between TONOR and
+                                OREDR<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.96037%2C-119.40293%2C%2C%2C&pt0=48.71245%2C-119.44758%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between TONOR and
+                                OMCOL<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.43412%2C-119.50277%2C%2C%2C&pt0=48.71245%2C-119.44758%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between TONOR and
+                                OMSHE<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.39348%2C-119.5492%2C%2C%2C&pt0=48.71245%2C-119.44758%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between TONOR and
+                                OKJAK<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.35256%2C-119.56554%2C%2C%2C&pt0=48.71245%2C-119.44758%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between TONOR and
+                                MAFOX<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.32592%2C-119.70396%2C%2C%2C&pt0=48.71245%2C-119.44758%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between TONOR and
+                                P11442<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.31127%2C-119.83675%2C%2C%2C&pt0=48.71245%2C-119.44758%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between TONOR and
+                                P11443<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.31032%2C-119.83754%2C%2C%2C&pt0=48.71245%2C-119.44758%2C%2C%2C">
+							</li>
+						 </ul>
+						
+		
+			<em>
+			Profile images &copy; 2008-2017 Michael Kosowsky.
+			All rights reserved. Used with permission. For more
+			information, visit
+			<a href="http://www.heywhatsthat.com/">HeyWhatsThat</a>
+			</em>]]></description>
+				<styleUrl>#site</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-119.44758,48.71245,13.716000021</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="site_407175152">
+				<name>OKJAK</name>
+				<description><![CDATA[<p>Approximate profiles to nearby sites</p>
+					 
+						
+						 <ul>
+							<li>Profile between OKJAK and
+                                OMSHE<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.39348%2C-119.5492%2C%2C%2C&pt0=48.35256%2C-119.56554%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between OKJAK and
+                                OMCOL<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.43412%2C-119.50277%2C%2C%2C&pt0=48.35256%2C-119.56554%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between OKJAK and
+                                MAFOX<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.32592%2C-119.70396%2C%2C%2C&pt0=48.35256%2C-119.56554%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between OKJAK and
+                                P11442<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.31127%2C-119.83675%2C%2C%2C&pt0=48.35256%2C-119.56554%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between OKJAK and
+                                P30092<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.30619%2C-119.83503%2C%2C%2C&pt0=48.35256%2C-119.56554%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between OKJAK and
+                                P11443<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.31032%2C-119.83754%2C%2C%2C&pt0=48.35256%2C-119.56554%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between OKJAK and
+                                BROPH<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.19295%2C-119.71635%2C%2C%2C&pt0=48.35256%2C-119.56554%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between OKJAK and
+                                Brannon<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.31225%2C-119.85244%2C%2C%2C&pt0=48.35256%2C-119.56554%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between OKJAK and
+                                BRHAR<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.11057%2C-119.82895%2C%2C%2C&pt0=48.35256%2C-119.56554%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between OKJAK and
+                                TOALK<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.66868%2C-119.51567%2C%2C%2C&pt0=48.35256%2C-119.56554%2C%2C%2C">
+							</li>
+						 </ul>
+						
+		
+			<em>
+			Profile images &copy; 2008-2017 Michael Kosowsky.
+			All rights reserved. Used with permission. For more
+			information, visit
+			<a href="http://www.heywhatsthat.com/">HeyWhatsThat</a>
+			</em>]]></description>
+				<styleUrl>#site</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-119.56554,48.35256,13.716000021</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="site_407171792">
+				<name>MAFOX</name>
+				<description><![CDATA[<p>Approximate profiles to nearby sites</p>
+					 
+						
+						 <ul>
+							<li>Profile between MAFOX and
+                                P30092<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.30619%2C-119.83503%2C%2C%2C&pt0=48.32592%2C-119.70396%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between MAFOX and
+                                P11442<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.31127%2C-119.83675%2C%2C%2C&pt0=48.32592%2C-119.70396%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between MAFOX and
+                                P11443<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.31032%2C-119.83754%2C%2C%2C&pt0=48.32592%2C-119.70396%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between MAFOX and
+                                OKJAK<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.35256%2C-119.56554%2C%2C%2C&pt0=48.32592%2C-119.70396%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between MAFOX and
+                                Brannon<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.31225%2C-119.85244%2C%2C%2C&pt0=48.32592%2C-119.70396%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between MAFOX and
+                                OMSHE<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.39348%2C-119.5492%2C%2C%2C&pt0=48.32592%2C-119.70396%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between MAFOX and
+                                BROPH<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.19295%2C-119.71635%2C%2C%2C&pt0=48.32592%2C-119.70396%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between MAFOX and
+                                OMCOL<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.43412%2C-119.50277%2C%2C%2C&pt0=48.32592%2C-119.70396%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between MAFOX and
+                                BRHAR<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.11057%2C-119.82895%2C%2C%2C&pt0=48.32592%2C-119.70396%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between MAFOX and
+                                TWMCC<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.31836%2C-120.11417%2C%2C%2C&pt0=48.32592%2C-119.70396%2C%2C%2C">
+							</li>
+						 </ul>
+						
+		
+			<em>
+			Profile images &copy; 2008-2017 Michael Kosowsky.
+			All rights reserved. Used with permission. For more
+			information, visit
+			<a href="http://www.heywhatsthat.com/">HeyWhatsThat</a>
+			</em>]]></description>
+				<styleUrl>#site</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-119.70396,48.32592,12.1920000186</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="site_407174608">
+				<name>OMSHE</name>
+				<description><![CDATA[<p>Approximate profiles to nearby sites</p>
+					 
+						
+						 <ul>
+							<li>Profile between OMSHE and
+                                OKJAK<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.35256%2C-119.56554%2C%2C%2C&pt0=48.39348%2C-119.5492%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between OMSHE and
+                                OMCOL<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.43412%2C-119.50277%2C%2C%2C&pt0=48.39348%2C-119.5492%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between OMSHE and
+                                MAFOX<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.32592%2C-119.70396%2C%2C%2C&pt0=48.39348%2C-119.5492%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between OMSHE and
+                                P11442<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.31127%2C-119.83675%2C%2C%2C&pt0=48.39348%2C-119.5492%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between OMSHE and
+                                P11443<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.31032%2C-119.83754%2C%2C%2C&pt0=48.39348%2C-119.5492%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between OMSHE and
+                                P30092<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.30619%2C-119.83503%2C%2C%2C&pt0=48.39348%2C-119.5492%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between OMSHE and
+                                Brannon<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.31225%2C-119.85244%2C%2C%2C&pt0=48.39348%2C-119.5492%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between OMSHE and
+                                BROPH<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.19295%2C-119.71635%2C%2C%2C&pt0=48.39348%2C-119.5492%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between OMSHE and
+                                TOALK<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.66868%2C-119.51567%2C%2C%2C&pt0=48.39348%2C-119.5492%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between OMSHE and
+                                TONOR<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.71245%2C-119.44758%2C%2C%2C&pt0=48.39348%2C-119.5492%2C%2C%2C">
+							</li>
+						 </ul>
+						
+		
+			<em>
+			Profile images &copy; 2008-2017 Michael Kosowsky.
+			All rights reserved. Used with permission. For more
+			information, visit
+			<a href="http://www.heywhatsthat.com/">HeyWhatsThat</a>
+			</em>]]></description>
+				<styleUrl>#site</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-119.5492,48.39348,1.21920000186</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="site_407172880">
+				<name>BROPH</name>
+				<description><![CDATA[<p>Approximate profiles to nearby sites</p>
+					 
+						
+						 <ul>
+							<li>Profile between BROPH and
+                                BRHAR<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.11057%2C-119.82895%2C%2C%2C&pt0=48.19295%2C-119.71635%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between BROPH and
+                                MAFOX<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.32592%2C-119.70396%2C%2C%2C&pt0=48.19295%2C-119.71635%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between BROPH and
+                                P30092<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.30619%2C-119.83503%2C%2C%2C&pt0=48.19295%2C-119.71635%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between BROPH and
+                                P11443<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.31032%2C-119.83754%2C%2C%2C&pt0=48.19295%2C-119.71635%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between BROPH and
+                                P11442<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.31127%2C-119.83675%2C%2C%2C&pt0=48.19295%2C-119.71635%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between BROPH and
+                                Brannon<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.31225%2C-119.85244%2C%2C%2C&pt0=48.19295%2C-119.71635%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between BROPH and
+                                OKJAK<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.35256%2C-119.56554%2C%2C%2C&pt0=48.19295%2C-119.71635%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between BROPH and
+                                OMSHE<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.39348%2C-119.5492%2C%2C%2C&pt0=48.19295%2C-119.71635%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between BROPH and
+                                OMCOL<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.43412%2C-119.50277%2C%2C%2C&pt0=48.19295%2C-119.71635%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between BROPH and
+                                TWMCC<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.31836%2C-120.11417%2C%2C%2C&pt0=48.19295%2C-119.71635%2C%2C%2C">
+							</li>
+						 </ul>
+						
+		
+			<em>
+			Profile images &copy; 2008-2017 Michael Kosowsky.
+			All rights reserved. Used with permission. For more
+			information, visit
+			<a href="http://www.heywhatsthat.com/">HeyWhatsThat</a>
+			</em>]]></description>
+				<styleUrl>#site</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-119.71635,48.19295,9.999999999999998</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="site_407171344">
+				<name>BRHAR</name>
+				<description><![CDATA[<p>Approximate profiles to nearby sites</p>
+					 
+						
+						 <ul>
+							<li>Profile between BRHAR and
+                                BROPH<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.19295%2C-119.71635%2C%2C%2C&pt0=48.11057%2C-119.82895%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between BRHAR and
+                                P30092<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.30619%2C-119.83503%2C%2C%2C&pt0=48.11057%2C-119.82895%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between BRHAR and
+                                P11443<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.31032%2C-119.83754%2C%2C%2C&pt0=48.11057%2C-119.82895%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between BRHAR and
+                                P11442<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.31127%2C-119.83675%2C%2C%2C&pt0=48.11057%2C-119.82895%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between BRHAR and
+                                Brannon<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.31225%2C-119.85244%2C%2C%2C&pt0=48.11057%2C-119.82895%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between BRHAR and
+                                MAFOX<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.32592%2C-119.70396%2C%2C%2C&pt0=48.11057%2C-119.82895%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between BRHAR and
+                                TWMCC<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.31836%2C-120.11417%2C%2C%2C&pt0=48.11057%2C-119.82895%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between BRHAR and
+                                OKJAK<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.35256%2C-119.56554%2C%2C%2C&pt0=48.11057%2C-119.82895%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between BRHAR and
+                                OMSHE<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.39348%2C-119.5492%2C%2C%2C&pt0=48.11057%2C-119.82895%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between BRHAR and
+                                OMCOL<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.43412%2C-119.50277%2C%2C%2C&pt0=48.11057%2C-119.82895%2C%2C%2C">
+							</li>
+						 </ul>
+						
+		
+			<em>
+			Profile images &copy; 2008-2017 Michael Kosowsky.
+			All rights reserved. Used with permission. For more
+			information, visit
+			<a href="http://www.heywhatsthat.com/">HeyWhatsThat</a>
+			</em>]]></description>
+				<styleUrl>#site</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-119.82895,48.11057,13.716000021</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="site_407174352">
+				<name>TWMCC</name>
+				<description><![CDATA[<p>Approximate profiles to nearby sites</p>
+					 
+						
+						 <ul>
+							<li>Profile between TWMCC and
+                                Brannon<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.31225%2C-119.85244%2C%2C%2C&pt0=48.31836%2C-120.11417%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between TWMCC and
+                                P11443<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.31032%2C-119.83754%2C%2C%2C&pt0=48.31836%2C-120.11417%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between TWMCC and
+                                P11442<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.31127%2C-119.83675%2C%2C%2C&pt0=48.31836%2C-120.11417%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between TWMCC and
+                                P30092<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.30619%2C-119.83503%2C%2C%2C&pt0=48.31836%2C-120.11417%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between TWMCC and
+                                MAFOX<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.32592%2C-119.70396%2C%2C%2C&pt0=48.31836%2C-120.11417%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between TWMCC and
+                                BRHAR<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.11057%2C-119.82895%2C%2C%2C&pt0=48.31836%2C-120.11417%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between TWMCC and
+                                BROPH<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.19295%2C-119.71635%2C%2C%2C&pt0=48.31836%2C-120.11417%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between TWMCC and
+                                OKJAK<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.35256%2C-119.56554%2C%2C%2C&pt0=48.31836%2C-120.11417%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between TWMCC and
+                                OMSHE<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.39348%2C-119.5492%2C%2C%2C&pt0=48.31836%2C-120.11417%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between TWMCC and
+                                OMCOL<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.43412%2C-119.50277%2C%2C%2C&pt0=48.31836%2C-120.11417%2C%2C%2C">
+							</li>
+						 </ul>
+						
+		
+			<em>
+			Profile images &copy; 2008-2017 Michael Kosowsky.
+			All rights reserved. Used with permission. For more
+			information, visit
+			<a href="http://www.heywhatsthat.com/">HeyWhatsThat</a>
+			</em>]]></description>
+				<styleUrl>#site</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-120.11417,48.31835999999999,9.999999999999998</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="site_407171984">
+				<name>TOALK</name>
+				<description><![CDATA[<p>Approximate profiles to nearby sites</p>
+					 
+						
+						 <ul>
+							<li>Profile between TOALK and
+                                TONOR<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.71245%2C-119.44758%2C%2C%2C&pt0=48.66868%2C-119.51567%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between TOALK and
+                                EFPIK<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.78988%2C-119.38162%2C%2C%2C&pt0=48.66868%2C-119.51567%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between TOALK and
+                                OMCOL<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.43412%2C-119.50277%2C%2C%2C&pt0=48.66868%2C-119.51567%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between TOALK and
+                                OMSHE<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.39348%2C-119.5492%2C%2C%2C&pt0=48.66868%2C-119.51567%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between TOALK and
+                                ORWES<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.94533%2C-119.44443%2C%2C%2C&pt0=48.66868%2C-119.51567%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between TOALK and
+                                OREDR<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.96037%2C-119.40293%2C%2C%2C&pt0=48.66868%2C-119.51567%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between TOALK and
+                                OKJAK<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.35256%2C-119.56554%2C%2C%2C&pt0=48.66868%2C-119.51567%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between TOALK and
+                                MAFOX<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.32592%2C-119.70396%2C%2C%2C&pt0=48.66868%2C-119.51567%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between TOALK and
+                                P11442<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.31127%2C-119.83675%2C%2C%2C&pt0=48.66868%2C-119.51567%2C%2C%2C">
+							</li>
+						 </ul>
+						
+						
+						 <ul>
+							<li>Profile between TOALK and
+                                P11443<br>
+							<img src="http://profile.heywhatsthat.com/bin/profile.cgi?src=MTPTP&metric=0&axes=1&curvature=1&pt1=48.31032%2C-119.83754%2C%2C%2C&pt0=48.66868%2C-119.51567%2C%2C%2C">
+							</li>
+						 </ul>
+						
+		
+			<em>
+			Profile images &copy; 2008-2017 Michael Kosowsky.
+			All rights reserved. Used with permission. For more
+			information, visit
+			<a href="http://www.heywhatsthat.com/">HeyWhatsThat</a>
+			</em>]]></description>
+				<styleUrl>#site</styleUrl>
+				<Point>
+					<extrude>1</extrude>
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-119.51567,48.66868,9.999999999999998</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
